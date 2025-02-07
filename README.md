@@ -10,4 +10,4 @@ Welcome to My Profile!
 
 🏃‍♂️ Outside of coding, I’m a fan of a healthy lifestyle.
 
-Feel free to explore my projects and get in touch — whether it’s about collaboration opportunities, exchanging ideas, or discussing all things tech!
+📬 Feel free to explore my projects and get in touch — whether it’s about collaboration opportunities, exchanging ideas, or discussing all things tech!
