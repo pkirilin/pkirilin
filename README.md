@@ -6,7 +6,7 @@ Welcome to My Profile!
 
 👨‍💻 I’m a **Fullstack Web Developer** with a passion for building user-friendly apps that solve real-world problems and make life easier. Here, I share my work, explore new technologies, and keep my skills up to date.
 
-🛠️ My expertise includes **React** for the frontend and modern **.NET** versions for backend development. I'm also diving into **Node.js**, a technology I find both exciting and enjoyable.
+🛠️ My expertise includes **React** for the frontend and modern **.NET** versions for the backend development.
 
 🏃‍♂️ Outside of coding, I’m a fan of a healthy lifestyle.
 
